@@ -1,5 +1,5 @@
 
-#include "server.hpp"
+#include "../include/server.hpp"
 
 #include <iostream>
 #include <thread>

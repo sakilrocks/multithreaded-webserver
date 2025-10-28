@@ -1,5 +1,5 @@
 
-#include "server.hpp"
+#include "../include/server.hpp"
 
 int main() {
     WebServer server(8080, "public");
